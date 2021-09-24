@@ -15,6 +15,9 @@ function App() {
           <Card id='card-2' className='card' draggable='true'>
             <p>Card Two</p>
           </Card>
+          <Card id='card-3' className='card' draggable='true'>
+            <p>Card Three</p>
+          </Card>
         </Board>
       </index>
     </div>
